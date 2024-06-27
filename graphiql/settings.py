@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "graphiql.wsgi.application"
+WSGI_APPLICATION = "graphiql.wsgi.app"
 
 
 # Database
