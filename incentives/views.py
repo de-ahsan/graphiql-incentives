@@ -99,3 +99,6 @@ def plot_view(request):
     if graph is None:
         return HttpResponse("Error fetching data", status=500)
     return render(request, "plot.html", {"graph": graph})
+
+def home_view(request):
+    return render(request, "home.html")
