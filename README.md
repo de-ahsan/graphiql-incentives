@@ -18,9 +18,9 @@ This is a Django project that visualizes incentives data from a GraphQL API.
 
 3. **Activate the virtual environment**:
 
-        ```bash
-        source venv/bin/activate
-        ```
+   ```bash
+   source venv/bin/activate
+   ```
 
 4. **Install the dependencies**:
 
@@ -41,9 +41,14 @@ This is a Django project that visualizes incentives data from a GraphQL API.
     ```
 
 7. **Access the Locally application**:
-   Open your web browser and go to `http://127.0.0.1:8000`.
-
+   
+    ```bash
+    Open your web browser and go to `http://127.0.0.1:8000`.
+    ```
 
 8. **Access the application on vercel**:
-   Open your web browser and go to `https://graphiql-incentives.vercel.app/`.
+
+    ```bash
+    Open your web browser and go to `https://graphiql-incentives.vercel.app/`.
+    ```
    
