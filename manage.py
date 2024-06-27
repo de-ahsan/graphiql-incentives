@@ -23,3 +23,4 @@ if __name__ == '__main__':
     main()
 
 application = get_wsgi_application()
+handler = application 
